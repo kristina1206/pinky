@@ -1,0 +1,14 @@
+C:\Users\denis\Desktop\oo\MiniGame2048-C-sharp\Physics\bin\Debug\Physics.exe.config
+C:\Users\denis\Desktop\oo\MiniGame2048-C-sharp\Physics\bin\Debug\Physics.exe
+C:\Users\denis\Desktop\oo\MiniGame2048-C-sharp\Physics\bin\Debug\Physics.pdb
+C:\Users\denis\Desktop\oo\MiniGame2048-C-sharp\Physics\bin\Debug\Tao.FreeGlut.xml
+C:\Users\denis\Desktop\oo\MiniGame2048-C-sharp\Physics\bin\Debug\Tao.OpenGl.xml
+C:\Users\denis\Desktop\oo\MiniGame2048-C-sharp\Physics\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\denis\Desktop\oo\MiniGame2048-C-sharp\Physics\obj\Debug\kris.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\oo\MiniGame2048-C-sharp\Physics\obj\Debug\Physics.Form1.resources
+C:\Users\denis\Desktop\oo\MiniGame2048-C-sharp\Physics\obj\Debug\Physics.Properties.Resources.resources
+C:\Users\denis\Desktop\oo\MiniGame2048-C-sharp\Physics\obj\Debug\kris.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\oo\MiniGame2048-C-sharp\Physics\obj\Debug\kris.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\oo\MiniGame2048-C-sharp\Physics\obj\Debug\kris.csproj.CopyComplete
+C:\Users\denis\Desktop\oo\MiniGame2048-C-sharp\Physics\obj\Debug\Physics.exe
+C:\Users\denis\Desktop\oo\MiniGame2048-C-sharp\Physics\obj\Debug\Physics.pdb
